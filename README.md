@@ -5,7 +5,7 @@ This is personal project where you learn a lot
 
 Follow me on LinkedIn : https://www.linkedin.com/in/yashgajjar/
 
-![](https://github.com/ashishpatel26/365-Days-Computer-Vision-Learning-Linkedin-Post/blob/main/poster.gif)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fmachine%2520learning%2F&psig=AOvVaw3GhCR3pQe61FLRL7WgIlmD&ust=1728908804553000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICon6uti4kDFQAAAAAdAAAAABAE)
 
 | Days | Topic                                        | Post Link              |
 | ---- | -------------------------------------------- | ---------------------- |
