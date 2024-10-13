@@ -1,7 +1,7 @@
 # 500-ML-Projects-In-500-Days
 This is personal project where you learn a lot
 
-## 365 Days Computer Vision Learning LinkedIn Post
+<ul>365 Days Computer Vision Learning LinkedIn Post</ul>
 
 Follow me on LinkedIn : https://www.linkedin.com/in/yashgajjar/
 
