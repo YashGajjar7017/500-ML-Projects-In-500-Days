@@ -4,11 +4,20 @@ This is personal project where you learn a lot
 <ul>365 Days Computer Vision Learning LinkedIn Post</ul>
 
 <ul>Follow me on LinkedIn : https://www.linkedin.com/in/yashgajjar/</ul>
-
+<p>
 <a href="https://github.com/YashGajjar7017"><img src="https://img.shields.io/static/v1?logo=github&label=maintainer&message=Yash Gajjar&color=ff3300" alt="Last Commit"/></a> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F/tree/main/001_Cervical_Cancer_Predection_with_ML&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
+<!--<img src="https://badges.pufler.dev/created/milaan9/93_Python_Data_Analytics_Projects" alt="Created"/>-->
+<!--<a href="https://github.com/milaan9/93_Python_Data_Analytics_Projects/graphs/commit-activity"><img src="https://img.shields.io/github/last-commit/milaan9/93_Python_Data_Analytics_Projects.svg?colorB=ff8000&style=flat" alt="Last Commit"/> </a>-->
+<a href="https://github.com/YashGajjar7017/93_Python_Data_Analytics_Projects/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/YashGajjar7017/93_Python_Data_Analytics_Projects.svg?colorB=teal&style=flat" /></a> 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F93_Python_Data_Analytics_Projects&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
+<a href="https://github.com/YashGajjar7017/93_Python_Data_Analytics_Projects/stargazers"><img src="https://img.shields.io/github/stars/YashGajjar7017/93_Python_Data_Analytics_Projects.svg?colorB=1a53ff" alt="Stars Badge"/></a>
+<a href="https://github.com/YashGajjar7017/93_Python_Data_Analytics_Projects/network/members"><img src="https://img.shields.io/github/forks/milaan9/93_Python_Data_Analytics_Projects" alt="Forks Badge"/> </a>
+<img src="https://img.shields.io/github/repo-size/YashGajjar7017/93_Python_Data_Analytics_Projects.svg?colorB=CC66FF&style=flat" alt="Size"/>
+<a href="https://github.com/YashGajjar7017/93_Python_Data_Analytics_Projects/pulls"><img src="https://img.shields.io/github/issues-pr/YashGajjar7017/93_Python_Data_Analytics_Projects.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/YashGajjar7017/93_Python_Data_Analytics_Projects/issues"><img src="https://img.shields.io/github/issues/YashGajjar7017/93_Python_Data_Analytics_Projects.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
+<img src="https://img.shields.io/github/languages/top/YashGajjar7017/93_Python_Data_Analytics_Projects.svg?colorB=996600&style=flat" alt="Language"/></a>
+<a href="https://github.com/YashGajjar7017/93_Python_Data_Analytics_Projects/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blueviolet.svg" alt="MIT License"/></a> 
 </p> 
-<!--<img src="https://badges.pufler.dev/contributors/yashacker/01_Python_Introduction?size=50&padding=5&bots=true" alt="yashacker"/>-->
 
 ![](https://github.com/YashGajjar7017/500-ML-Projects-In-500-Days/blob/main/image1.jpg)
 
