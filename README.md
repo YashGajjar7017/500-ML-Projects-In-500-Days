@@ -3,7 +3,7 @@ This is personal project where you learn a lot
 
 <ul>365 Days Computer Vision Learning LinkedIn Post</ul>
 
-Follow me on LinkedIn : https://www.linkedin.com/in/yashgajjar/
+<ul>Follow me on LinkedIn : https://www.linkedin.com/in/yashgajjar/</ul>
 
 ![](https://pixabay.com/illustrations/ai-generated-face-8540915/)
 
