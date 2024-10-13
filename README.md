@@ -11,7 +11,7 @@ This is personal project where you learn a lot
 <a href="https://github.com/YashGajjar7017/500-ML-Projects-In-500-Days/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/YashGajjar7017/500-ML-Projects-In-500-Days.svg?colorB=teal&style=flat" /></a> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F93_Python_Data_Analytics_Projects&count_bg=%231DC92C&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false"/></a>
 <a href="https://github.com/YashGajjar7017/500-ML-Projects-In-500-Days/stargazers"><img src="https://img.shields.io/github/stars/YashGajjar7017/500-ML-Projects-In-500-Days.svg?colorB=1a53ff" alt="Stars Badge"/></a>
-<a href="https://github.com/YashGajjar7017/500-ML-Projects-In-500-Days/network/members"><img src="https://img.shields.io/github/forks/YashGajjar7017/500-ML-Projects-In-500-Days" alt="Forks Badge"/> </a>
+<a href="https://github.com/YashGajjar7017/500-ML-Projects-In-500-Days/network/members"><img src="https://img.shields.io/github/forks/YashGajjar7017/500-ML-Projects-In-500-Days" alt="Forks Badge"/> </a><br>
 <img src="https://img.shields.io/github/repo-size/YashGajjar7017/500-ML-Projects-In-500-Days.svg?colorB=CC66FF&style=flat" alt="Size"/>
 <a href="https://github.com/YashGajjar7017/500-ML-Projects-In-500-Days/pulls"><img src="https://img.shields.io/github/issues-pr/YashGajjar7017/500-ML-Projects-In-500-Days.svg?colorB=yellow&style=flat" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/YashGajjar7017/500-ML-Projects-In-500-Days/issues"><img src="https://img.shields.io/github/issues/YashGajjar7017/500-ML-Projects-In-500-Days.svg?colorB=yellow&style=flat" alt="Issues Badge"/></a>
