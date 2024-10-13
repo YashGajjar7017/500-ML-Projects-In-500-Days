@@ -5,7 +5,7 @@ This is personal project where you learn a lot
 
 <ul>Follow me on LinkedIn : https://www.linkedin.com/in/yashgajjar/</ul>
 
-![](https://pixabay.com/illustrations/ai-generated-face-8540915/)
+![](https://github.com/YashGajjar7017/500-ML-Projects-In-500-Days/blob/main/image1.jpg)
 
 | Days | Topic                                        | Post Link              |
 | ---- | -------------------------------------------- | ---------------------- |
